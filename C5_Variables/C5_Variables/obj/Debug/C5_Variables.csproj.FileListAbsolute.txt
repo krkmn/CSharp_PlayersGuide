@@ -1,0 +1,7 @@
+D:\Programmering\C Player's Guide\C5_Variables\C5_Variables\bin\Debug\C5_Variables.exe.config
+D:\Programmering\C Player's Guide\C5_Variables\C5_Variables\bin\Debug\C5_Variables.exe
+D:\Programmering\C Player's Guide\C5_Variables\C5_Variables\bin\Debug\C5_Variables.pdb
+D:\Programmering\C Player's Guide\C5_Variables\C5_Variables\obj\Debug\C5_Variables.csprojAssemblyReference.cache
+D:\Programmering\C Player's Guide\C5_Variables\C5_Variables\obj\Debug\C5_Variables.csproj.CoreCompileInputs.cache
+D:\Programmering\C Player's Guide\C5_Variables\C5_Variables\obj\Debug\C5_Variables.exe
+D:\Programmering\C Player's Guide\C5_Variables\C5_Variables\obj\Debug\C5_Variables.pdb
