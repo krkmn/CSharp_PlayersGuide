@@ -1,0 +1,7 @@
+D:\Programmering\C Player's Guide\C3_HelloWorld\C3_HelloWorld\bin\Debug\C3_HelloWorld.exe.config
+D:\Programmering\C Player's Guide\C3_HelloWorld\C3_HelloWorld\bin\Debug\C3_HelloWorld.exe
+D:\Programmering\C Player's Guide\C3_HelloWorld\C3_HelloWorld\bin\Debug\C3_HelloWorld.pdb
+D:\Programmering\C Player's Guide\C3_HelloWorld\C3_HelloWorld\obj\Debug\C3_HelloWorld.csprojAssemblyReference.cache
+D:\Programmering\C Player's Guide\C3_HelloWorld\C3_HelloWorld\obj\Debug\C3_HelloWorld.csproj.CoreCompileInputs.cache
+D:\Programmering\C Player's Guide\C3_HelloWorld\C3_HelloWorld\obj\Debug\C3_HelloWorld.exe
+D:\Programmering\C Player's Guide\C3_HelloWorld\C3_HelloWorld\obj\Debug\C3_HelloWorld.pdb
