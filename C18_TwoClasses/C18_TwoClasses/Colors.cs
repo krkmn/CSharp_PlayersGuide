@@ -8,12 +8,12 @@ namespace C18_TwoClasses
 {
     class Colors
     {
-        private int red;
-        private int green;
-        private int blue;
-        private int alpha;
+        private byte red;
+        private byte green;
+        private byte blue;
+        private byte alpha;
 
-        public Colors(int red, int green, int blue, int alpha)
+        public Colors(byte red, byte green, byte blue, byte alpha)
         {
             this.red = red;
             this.green = green;
@@ -21,7 +21,7 @@ namespace C18_TwoClasses
             this.alpha = alpha;
         }
 
-        public Colors(int red, int green, int blue)
+        public Colors(byte red, byte green, byte blue)
         {
             this.red = red;
             this.green = green;
@@ -29,49 +29,49 @@ namespace C18_TwoClasses
             this.alpha = 255;
         }
 
-        public void SetRed(int red)
+        public void SetRed(byte red)
         {
             this.red = red;
         }
 
-        public int GetRed()
+        public byte GetRed()
         {
             return red;
         }
 
-        public void SetGreen(int green)
+        public void SetGreen(byte green)
         {
             this.green = green;
         }
 
-        public int GetGreen()
+        public byte GetGreen()
         {
             return green;
         }
 
-        public void SetBlue(int blue)
+        public void SetBlue(byte blue)
         {
             this.blue = blue;
         }
 
-        public int GetBlue()
+        public byte GetBlue()
         {
             return blue;
         }
 
-        public void SetAlpha(int alpha)
+        public void SetAlpha(byte alpha)
         {
             this.alpha = alpha;
         }
 
-        public int GetAlpha()
+        public byte GetAlpha()
         {
             return alpha;
         }
 
-        public int Grayscale()
+        public byte Grayscale()
         {
-            return (green + red + blue) / 3;
+            return (byte)((green + red + blue) / 3);
         }
 
     }

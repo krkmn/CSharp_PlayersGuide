@@ -11,7 +11,7 @@ namespace C18_TwoClasses
         static void Main(string[] args)
         {
             Colors color1 = new Colors(34, 55, 89, 144);
-            Colors color2 = new Colors(31, 41, 59, 265);
+            Colors color2 = new Colors(31, 41, 59, 26);
             Colors color3 = new Colors(27, 182, 81, 82);
             int gray = color1.Grayscale();
             Console.WriteLine($"Grayscale average is {gray}");
